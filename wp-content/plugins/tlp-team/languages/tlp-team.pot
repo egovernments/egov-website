@@ -1,0 +1,875 @@
+# Copyright (C) 2022 tlp-team
+# This file is distributed under the same license as the tlp-team package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tlp-team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Controllers/PostTypesController.php:88, ../app/Controllers/PostTypesController.php:111
+msgid "Team"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:89, ../app/Controllers/PostTypesController.php:112
+msgid "Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:109
+msgctxt "tlp-team"
+msgid "Team"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:110
+msgctxt "tlp-team"
+msgid "Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:113
+msgid "Parent Member:"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:114
+msgid "All Members"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:115
+msgid "Add New Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:116
+msgid "Add Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:117
+msgid "New Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:118
+msgid "Edit Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:119
+msgid "Update Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:120
+msgid "View Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:121
+msgid "Search Member"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:122
+msgid "Not found"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:123
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:136, ../app/Controllers/PostTypesController.php:154, ../app/Controllers/PostTypesController.php:155, ../app/Widgets/Elementor/TeamShortcodesList.php:74, ../app/Widgets/Vc/VcAddon.php:65
+msgid "Shortcode"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:137
+msgid "Team Shortcode generator"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:153, ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:229
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:156
+msgid "Edit Shortcode"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:157
+msgid "New Shortcode"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:158
+msgid "View Shortcode"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:159
+msgid "Shortcode Locations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:160
+msgid "No Shortcode found."
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:161
+msgid "No Shortcode found in trash."
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:188
+msgctxt "tlp-team"
+msgid "Designations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:189
+msgctxt "tlp-team"
+msgid "Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:190, ../app/Helpers/Options.php:479
+msgid "Designations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:191
+msgid "All Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:192
+msgid "Parent Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:193
+msgid "Parent Designation:"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:194
+msgid "New Designation Name"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:195
+msgid "Add New Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:196
+msgid "Edit Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:197
+msgid "Update Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:198
+msgid "View Designation"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:199
+msgid "Separate Designations with commas"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:200
+msgid "Add or remove Designations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:201, ../app/Controllers/PostTypesController.php:233
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:202
+msgid "Popular Designations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:203
+msgid "Search Designations"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:204, ../app/Controllers/PostTypesController.php:236
+msgid "Not Found"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:220, ../app/Controllers/PostTypesController.php:221
+msgctxt "tlp-team"
+msgid "Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:222, ../app/Helpers/Options.php:468
+msgid "Departments"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:223
+msgid "All Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:224, ../app/Controllers/PostTypesController.php:225
+msgid "Parent Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:226
+msgid "New Department Name"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:227
+msgid "Add New Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:228
+msgid "Edit Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:229
+msgid "Update Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:230
+msgid "View Department"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:231
+msgid "Separate Skills with commas"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:232
+msgid "Add or remove Skills"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:234
+msgid "Popular Departments"
+msgstr ""
+
+#: ../app/Controllers/PostTypesController.php:235
+msgid "Search Departments"
+msgstr ""
+
+#: ../app/Helpers/Fns.php:475
+msgid "Latest post(s)"
+msgstr ""
+
+#: ../app/Helpers/Fns.php:608
+msgid "Custom image size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:46, ../app/Helpers/Options.php:314, ../app/Helpers/Options.php:395, ../app/Helpers/Options.php:409
+msgid "Pagination"
+msgstr ""
+
+#: ../app/Helpers/Options.php:47
+msgid "Ajax Number Pagination ( Only for Grid )"
+msgstr ""
+
+#: ../app/Helpers/Options.php:48
+msgid "Load more button (by ajax loading)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:49
+msgid "Load more on scroll (by ajax loading)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:59
+msgid "Export settings"
+msgstr ""
+
+#: ../app/Helpers/Options.php:74
+msgid "Export format"
+msgstr ""
+
+#: ../app/Helpers/Options.php:89
+msgid "Short Bio"
+msgstr ""
+
+#: ../app/Helpers/Options.php:92
+msgid "Add some short bio"
+msgstr ""
+
+#: ../app/Helpers/Options.php:95
+msgid "Experience"
+msgstr ""
+
+#: ../app/Helpers/Options.php:98
+msgid "ex: 4 Years"
+msgstr ""
+
+#: ../app/Helpers/Options.php:101, ../app/Helpers/Options.php:174, ../app/Controllers/Admin/AdminColumns.php:31
+msgid "Email"
+msgstr ""
+
+#: ../app/Helpers/Options.php:105, ../app/Helpers/Options.php:176
+msgid "Telephone"
+msgstr ""
+
+#: ../app/Helpers/Options.php:109, ../app/Helpers/Options.php:177, ../app/Helpers/Options.php:257
+msgid "Mobile"
+msgstr ""
+
+#: ../app/Helpers/Options.php:113, ../app/Helpers/Options.php:178
+msgid "Fax"
+msgstr ""
+
+#: ../app/Helpers/Options.php:117
+msgid "Personal Web URL"
+msgstr ""
+
+#: ../app/Helpers/Options.php:121, ../app/Helpers/Options.php:179, ../app/Controllers/Admin/AdminColumns.php:32
+msgid "Location"
+msgstr ""
+
+#: ../app/Helpers/Options.php:125
+msgid "Custom Detail URL"
+msgstr ""
+
+#: ../app/Helpers/Options.php:128
+msgid "Add your custom URl for detail profile"
+msgstr ""
+
+#: ../app/Helpers/Options.php:170, ../app/Helpers/Options.php:558
+msgid "Name"
+msgstr ""
+
+#: ../app/Helpers/Options.php:171, ../app/Helpers/Options.php:563
+msgid "Designation"
+msgstr ""
+
+#: ../app/Helpers/Options.php:172, ../app/Helpers/Options.php:568
+msgid "Short biography"
+msgstr ""
+
+#: ../app/Helpers/Options.php:173
+msgid "Content Details"
+msgstr ""
+
+#: ../app/Helpers/Options.php:175
+msgid "Web Url"
+msgstr ""
+
+#: ../app/Helpers/Options.php:180
+msgid "Social Link"
+msgstr ""
+
+#: ../app/Helpers/Options.php:188
+msgid "Select the field"
+msgstr ""
+
+#: ../app/Helpers/Options.php:195
+msgid "Check the field which you want to display. Note: Some field are not available for some layout"
+msgstr ""
+
+#: ../app/Helpers/Options.php:238
+msgid "Column"
+msgstr ""
+
+#: ../app/Helpers/Options.php:243
+msgid "Desktop"
+msgstr ""
+
+#: ../app/Helpers/Options.php:250
+msgid "Tab"
+msgstr ""
+
+#: ../app/Helpers/Options.php:265, ../app/Helpers/Options.php:632
+msgid "Image column"
+msgstr ""
+
+#: ../app/Helpers/Options.php:273
+msgid "Speed"
+msgstr ""
+
+#: ../app/Helpers/Options.php:277
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: ../app/Helpers/Options.php:280
+msgid "Carousel Options"
+msgstr ""
+
+#: ../app/Helpers/Options.php:289
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../app/Helpers/Options.php:293
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: ../app/Helpers/Options.php:316, ../app/Helpers/Options.php:380, ../app/Helpers/Options.php:653
+msgid "Enable"
+msgstr ""
+
+#: ../app/Helpers/Options.php:321
+msgid "Pagination type"
+msgstr ""
+
+#: ../app/Helpers/Options.php:330
+msgid "Display per page"
+msgstr ""
+
+#: ../app/Helpers/Options.php:333
+msgid "If value of Limit setting is not blank (empty), this value should be smaller than Limit value."
+msgstr ""
+
+#: ../app/Helpers/Options.php:340
+msgid "Feature Image Disable"
+msgstr ""
+
+#: ../app/Helpers/Options.php:341
+msgid "Disable"
+msgstr ""
+
+#: ../app/Helpers/Options.php:346
+msgid "Image style"
+msgstr ""
+
+#: ../app/Helpers/Options.php:348
+msgid "Select image style for layout. <br> <strong>Note:</strong> All layouts don't support rounded style."
+msgstr ""
+
+#: ../app/Helpers/Options.php:354
+msgid "Image Size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:361
+msgid "Custom Image Size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:366
+msgid "Short description limit"
+msgstr ""
+
+#: ../app/Helpers/Options.php:367
+msgid "Short description limit only integer number is allowed, Leave it blank for full text.<br> <span style='color: red;'>Also HTML TAGS will not work if you use limit.</span>"
+msgstr ""
+
+#: ../app/Helpers/Options.php:379
+msgid "Detail page link"
+msgstr ""
+
+#: ../app/Helpers/Options.php:391, ../app/Helpers/Options.php:405
+msgid "Loop"
+msgstr ""
+
+#: ../app/Helpers/Options.php:392, ../app/Helpers/Options.php:406
+msgid "Auto Play"
+msgstr ""
+
+#: ../app/Helpers/Options.php:393, ../app/Helpers/Options.php:407
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: ../app/Helpers/Options.php:394, ../app/Helpers/Options.php:408
+msgid "Nav Button"
+msgstr ""
+
+#: ../app/Helpers/Options.php:396, ../app/Helpers/Options.php:410
+msgid "Auto Height"
+msgstr ""
+
+#: ../app/Helpers/Options.php:397, ../app/Helpers/Options.php:411
+msgid "Lazy Load"
+msgstr ""
+
+#: ../app/Helpers/Options.php:398, ../app/Helpers/Options.php:412
+msgid "Right to left (RTL)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:437
+msgid "Include only"
+msgstr ""
+
+#: ../app/Helpers/Options.php:441
+msgid "Select the member you want to display"
+msgstr ""
+
+#: ../app/Helpers/Options.php:449
+msgid "Exclude"
+msgstr ""
+
+#: ../app/Helpers/Options.php:452
+msgid "Select the member you want to hide"
+msgstr ""
+
+#: ../app/Helpers/Options.php:460
+msgid "Limit"
+msgstr ""
+
+#: ../app/Helpers/Options.php:462
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: ../app/Helpers/Options.php:472
+msgid "Select the department you want to filter, Leave it blank for all department"
+msgstr ""
+
+#: ../app/Helpers/Options.php:484
+msgid "Select the designation you want to filter, Leave it blank for all designation"
+msgstr ""
+
+#: ../app/Helpers/Options.php:488
+msgid "Taxonomy relation"
+msgstr ""
+
+#: ../app/Helpers/Options.php:492
+msgid "Select this option if you select more than one taxonomy like department , designation and skill"
+msgstr ""
+
+#: ../app/Helpers/Options.php:496
+msgid "Order By"
+msgstr ""
+
+#: ../app/Helpers/Options.php:503, ../app/Controllers/Admin/TaxSorting.php:87
+msgid "Order"
+msgstr ""
+
+#: ../app/Helpers/Options.php:600
+msgid "Ascending"
+msgstr ""
+
+#: ../app/Helpers/Options.php:601
+msgid "Descending"
+msgstr ""
+
+#: ../app/Helpers/Options.php:608
+msgid "Soft Crop"
+msgstr ""
+
+#: ../app/Helpers/Options.php:609
+msgid "Hard Crop"
+msgstr ""
+
+#: ../app/Helpers/Options.php:624
+msgid "Content type"
+msgstr ""
+
+#: ../app/Helpers/Options.php:637
+msgid "Content column will calculate automatically"
+msgstr ""
+
+#: ../app/Helpers/Options.php:641, ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:301
+msgid "Field Selection"
+msgstr ""
+
+#: ../app/Helpers/Options.php:642
+msgid "This will apply only single team page"
+msgstr ""
+
+#: ../app/Helpers/Options.php:650
+msgid "Comments"
+msgstr ""
+
+#: ../app/Helpers/Options.php:652
+msgid "Allow comments to team member details page"
+msgstr ""
+
+#: ../app/Helpers/Options.php:669
+msgid "<span style='color: red;'>Please use default customizer to add your css. This option is deprecated.</span>"
+msgstr ""
+
+#: ../app/Helpers/Options.php:705
+msgid "Slug"
+msgstr ""
+
+#: ../app/Helpers/Options.php:707
+msgid "Slug configuration"
+msgstr ""
+
+#: ../app/Helpers/Options.php:725
+msgid "Color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:732
+msgid "Hover color"
+msgstr ""
+
+#: ../app/Helpers/Options.php:738
+msgid "Font size"
+msgstr ""
+
+#: ../app/Helpers/Options.php:741, ../app/Helpers/Options.php:751, ../app/Helpers/Options.php:760, ../app/Controllers/Admin/Ajax/Shortcode.php:47
+msgid "Default"
+msgstr ""
+
+#: ../app/Helpers/Options.php:748
+msgid "Weight"
+msgstr ""
+
+#: ../app/Helpers/Options.php:758
+msgid "Alignment"
+msgstr ""
+
+#: ../app/Helpers/Options.php:771
+msgid "Container"
+msgstr ""
+
+#: ../app/Helpers/Options.php:772
+msgid "Container fluid"
+msgstr ""
+
+#: ../app/Models/Fields.php:82
+msgid "[Pro]"
+msgstr ""
+
+#: ../app/Models/Fields.php:82
+msgid "This is premium field"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:26
+msgid "Display the Team as carousel."
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:28
+msgid "Team Widget (With Carousel)"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:121, ../app/Widgets/TeamWidget.php:115, ../app/Controllers/Frontend/Shortcode.php:695, ../app/Controllers/Admin/Ajax/Preview.php:710
+msgid "No member found"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:198, ../app/Widgets/TeamShortcodeWidget.php:59, ../app/Widgets/TeamWidget.php:133
+msgid "Title:"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:204
+msgid "Number of member per slide:"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:210
+msgid "Total Number of member:"
+msgstr ""
+
+#: ../app/Widgets/TeamCarousel.php:216
+msgid "Slide Speed:"
+msgstr ""
+
+#: ../app/Widgets/TeamShortcodeWidget.php:22
+msgid "Display the team member using TLP Team plugin."
+msgstr ""
+
+#: ../app/Widgets/TeamShortcodeWidget.php:24
+msgid "Team Widget (Shortcodes List)"
+msgstr ""
+
+#: ../app/Widgets/TeamShortcodeWidget.php:36, ../app/Widgets/TeamShortcodeWidget.php:52, ../app/Widgets/Elementor/TeamShortcodesList.php:24, ../app/Widgets/Elementor/TeamShortcodesList.php:64
+msgid "TLP Team"
+msgstr ""
+
+#: ../app/Widgets/TeamShortcodeWidget.php:71
+msgid "Select team shortcode"
+msgstr ""
+
+#: ../app/Widgets/TeamWidget.php:23
+msgid "Display the Team."
+msgstr ""
+
+#: ../app/Widgets/TeamWidget.php:25
+msgid "Team Widget"
+msgstr ""
+
+#: ../app/Widgets/TeamWidget.php:136
+msgid "Number of member to show:"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminColumns.php:30
+msgid "Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminColumns.php:37
+msgid "TLP Team Shortcode"
+msgstr ""
+
+#: ../app/Controllers/Admin/Settings.php:60
+msgid "TLP TEAM Settings"
+msgstr ""
+
+#: ../app/Controllers/Admin/Settings.php:61
+msgid "Settings"
+msgstr ""
+
+#: ../app/Controllers/Admin/Settings.php:72
+msgid "TLP TEAM GET HELP"
+msgstr ""
+
+#: ../app/Controllers/Admin/Settings.php:73
+msgid "Get Help"
+msgstr ""
+
+#: ../app/Controllers/Admin/TaxSorting.php:73
+msgid "Security error"
+msgstr ""
+
+#: ../app/Controllers/Admin/TaxSorting.php:70
+msgid "Select a taxonomy"
+msgstr ""
+
+#: ../app/Controllers/Admin/TaxSorting.php:67
+msgid "No term found"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Shortcode.php:307, ../app/Controllers/Frontend/Shortcode.php:257, ../app/Controllers/Frontend/Shortcode.php:289, ../app/Controllers/Admin/Ajax/Preview.php:363, ../app/Controllers/Admin/Ajax/Preview.php:312, ../app/Controllers/Admin/Ajax/Preview.php:344
+msgid "All"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Shortcode.php:343, ../app/Controllers/Frontend/Shortcode.php:349, ../app/Controllers/Admin/Ajax/Preview.php:399, ../app/Controllers/Admin/Ajax/Preview.php:405
+msgid "Sort By None"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Shortcode.php:378, ../app/Controllers/Admin/Ajax/Preview.php:433
+msgid "Loading ..."
+msgstr ""
+
+#: ../app/Controllers/Frontend/Shortcode.php:418, ../app/Controllers/Admin/Ajax/Preview.php:473
+msgid "Show all"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Shortcode.php:671, ../app/Controllers/Admin/Ajax/Preview.php:681
+msgid "Load More"
+msgstr ""
+
+#: ../app/Widgets/Elementor/TeamShortcodesList.php:88
+msgid "Please select a shortcode from the list."
+msgstr ""
+
+#: ../app/Widgets/Vc/VcAddon.php:69
+msgid "Shortcode list"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/DefaultFilter.php:49
+msgid "Your session is expired !!"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/DefaultFilter.php:39
+msgid "Success"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/DefaultFilter.php:40
+msgid "Show All"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/Preview.php:724
+msgid "No Shortcode found"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/Settings.php:46
+msgid "Security Error !!"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/Settings.php:44
+msgid "Settings successfully updated"
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/Shortcode.php:57
+msgid "No shortCode found."
+msgstr ""
+
+#: ../app/Controllers/Admin/Ajax/Shortcode.php:45
+msgid "Select Shortcode"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/PostMeta.php:90
+msgid "Member Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/PostMeta.php:99
+msgid "Member Social Link"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/PostMeta.php:153
+msgid "Add new"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:51
+msgid "Pro field alert!"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:52
+msgid "Sorry! this is a pro field. To use this field, you need to use pro plugin."
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:53
+msgid "Upgrade to pro"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:237
+msgid "Layout Preview"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:246
+msgid "Pro Documentation"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:299
+msgid "Layout"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:300
+msgid "Filtering"
+msgstr ""
+
+#: ../app/Controllers/Admin/Metabox/ShortcodeMeta.php:302
+msgid "Styling"
+msgstr ""
+
+#: ../app/Controllers/Admin/Notices/BlackFriday.php:74
+msgid "Don't miss out on our biggest sale of the year! Get your."
+msgstr ""
+
+#: ../app/Controllers/Admin/Notices/Migration.php:51
+msgid "We've major updated in our Team plugin. That's why we need to migrate your data with the latest version"
+msgstr ""
+
+#: ../app/Controllers/Admin/Notices/Migration.php:53
+msgid "Migrate Data"
+msgstr ""
+
+#: ../app/Controllers/Admin/Notices/Migration.php:66
+msgid "Migration Successful"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/LoadMore.php:385
+msgid "Session Error"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/LoadMore.php:382
+msgid "Shortcode id missing"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/LoadMore.php:374, ../app/Controllers/Frontend/Ajax/LoadMore.php:375
+msgid "No more member to load"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/MultiPopup.php:148, ../app/Controllers/Frontend/Ajax/SinglePopup.php:149, ../app/Controllers/Frontend/Ajax/SmartPopup.php:142
+msgid "No item id found"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/MultiPopup.php:144, ../app/Controllers/Frontend/Ajax/SinglePopup.php:146
+msgid "Selected is is not for team member"
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/MultiPopup.php:96, ../app/Controllers/Frontend/Ajax/SinglePopup.php:101, ../app/Controllers/Frontend/Ajax/SmartPopup.php:89, ../templates/single-team.php:98
+msgid "Qualifications : "
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/MultiPopup.php:103, ../app/Controllers/Frontend/Ajax/SinglePopup.php:108, ../app/Controllers/Frontend/Ajax/SmartPopup.php:96, ../templates/single-team.php:102
+msgid "Professional Memberships : "
+msgstr ""
+
+#: ../app/Controllers/Frontend/Ajax/MultiPopup.php:110, ../app/Controllers/Frontend/Ajax/SinglePopup.php:115, ../app/Controllers/Frontend/Ajax/SmartPopup.php:103, ../templates/single-team.php:106
+msgid "Area of Expertise : "
+msgstr ""
+
+#: ../resources/export-import.php:11
+msgid "TLP Team Export Import"
+msgstr ""
+
+#: ../resources/get-help.php:14
+msgid "Thank you for installing Team Plugin"
+msgstr ""
+
+#: ../resources/settings.php:11
+msgid "TLP Team Settings"
+msgstr ""
+
+#: ../resources/settings.php:13
+msgid "General settings"
+msgstr ""
+
+#: ../resources/settings.php:24
+msgid "General Settings"
+msgstr ""
+
+#: ../resources/settings.php:25
+msgid "Detail page field selection"
+msgstr ""
+
+#: ../resources/taxonomy-order.php:12
+msgid "Taxonomy Ordering"
+msgstr ""

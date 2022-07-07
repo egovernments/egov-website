@@ -1,0 +1,191 @@
+/**
+ * jquery-bootstrap-scrolling-tabs
+ * @version v0.0.1
+ * @link https://github.com/mikejacobson/jquery-bootstrap-scrolling-tabs
+ * @author Mike Jacobson <michaeljjacobson1@gmail.com>
+ * @license MIT License, http://www.opensource.org/licenses/MIT
+ */
+/* line 13, jquery.scrolling-tabs.scss */
+
+
+.scrtabs-tab-container a {outline: 0;}
+.tab-main-container * {
+  box-sizing: border-box;
+}
+
+/* line 17, jquery.scrolling-tabs.scss */
+.scrtabs-tab-container {
+  height: 43px;
+}
+/* line 19, jquery.scrolling-tabs.scss */
+.scrtabs-tab-container .tab-content {
+  clear: left;
+}
+
+/* line 24, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-fixed-container {
+  float: left;
+  /*height: 42px;*/
+  overflow: hidden;
+  width: 100%;
+}
+
+/* line 31, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-movable-container {
+  position: relative;
+}
+/* line 33, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-movable-container .tab-content {
+  display: none;
+}
+
+/* line 38, jquery.scrolling-tabs.scss */
+.scrtabs-tab-scroll-arrow {
+  border: 1px solid #dddddd;
+  border-top: none;
+  color: #428bca;
+  cursor: pointer;
+  float: left;
+  font-size: 12px;
+  height: 42px;
+  margin-bottom: -1px;
+  padding-left: 3px;
+  padding-top: 9px;
+  width:20px;	
+}
+
+/* line 50, jquery.scrolling-tabs.scss */
+.scrtabs-tab-scroll-arrow:hover {
+  background-color: #eeeeee;
+}
+
+/* line 55, jquery.scrolling-tabs.scss
+.scrtabs-tabs-fixed-container ul.nav-tabs {
+  height: 40px;
+}
+ */
+/* line 57, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-fixed-container ul.nav-tabs > li {
+  white-space: nowrap;
+}
+
+/* line 63, jquery.scrolling-tabs.scss */
+.scrtabs-tab-content-outside-movable-container .nav-tabs {
+  display: none;
+}
+
+.scrtabs-tab-container .scrtabs-tab-scroll-arrow span{
+
+	 border: solid black;
+	border-width: 0 5px 5px 0;
+	display: inline-block;
+	padding: 4px;
+
+
+}
+.scrtabs-js-tab-scroll-arrow-left{
+
+
+}
+.scrtabs-js-tab-scroll-arrow-left div{
+
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+
+  border-right:10px solid blue;
+
+
+}
+.scrtabs-js-tab-scroll-arrow-right{
+
+
+box-sizing: border-box;
+padding-left: 0px;
+padding-left: 3px;
+border:0px;
+left: 0px;
+position: relative;
+
+height: 42px;
+
+top:0px;
+z-index:1;
+}
+
+.scrtabs-js-tab-scroll-arrow-right div{
+
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left:10px solid blue;
+  margin-left:4px;
+}
+
+
+/*
+@-moz-document url-prefix() {
+  .scrtabs-js-tab-scroll-arrow-right {
+    margin-top:0px;
+  }
+  .scrtabs-js-tab-scroll-arrow-left{
+
+    margin-top:0px;
+  }
+}
+*/
+.btabs  .bordered-tab-contents > .tab-content > .tab-pane {
+/*    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;*/
+    border-radius: 0px 0px 0px 0px;
+    padding: 10px;
+    margin-top:0px;
+    margin-right:0px;
+}
+
+.btabs  .bordered-tab-contents > .nav-tabs {
+    margin-bottom: 0;
+}
+
+.btabs .tab-content{display:unset}
+
+/*
+.btabs  .bordered-tab-contents {
+
+  position:relative;
+  top:-1px;
+}
+*/
+
+.btab  li > a{border-radius:0px}
+
+.btab .nav-tabs > li.active > a, .btab .nav-tabs > li.active > a:hover, .btab .nav-tabs > li.active > a:focus{
+margin-top: 2px;
+border-bottom: 0px;
+}
+
+.btabs .nav-tabs > li > a{border-radius:0px}
+.btab .nav-tabs > li.active > a, .btab .nav-tabs > li.active > a:hover, .btab .nav-tabs > li.active > a:focus{
+margin-top: 2px;
+border-bottom: 0px;
+}
+
+.btabs{padding:5px;}
+
+.btabs .tab-content{overflow:inherit}
+.btabs .nav-tabs > li.active > a, .btabs .nav-tabs > li.active > a:hover, .btabs .nav-tabs > li.active > a:focus{outline:none;box-shadow:none}
+.btabs .nav-tabs > li.active{outline:none;box-shadow:none}
+.btabs .nav-tabs > li > a{margin-right:0px}
+/*
+.btabs .nav-tabs > li:first-child.active a{border-left:0px}
+.btabs .nav-tabs > li:first-child.active a:hover{border-left:0px}
+.btabs .nav-tabs > li:first-child.active a:focus{border-left:0px}
+
+*/
+
+.btabs .nav-tabs > li:first-child.active{top:0px}
+.btabs .nav-tabs{margin:inherit}
+.scrtabs-tabs-movable-container .btab li{margin:auto}

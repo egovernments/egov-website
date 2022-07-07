@@ -1,0 +1,100 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+}
+.uc_overlay_image_carousel{
+  position:relative;
+}
+.uc_overlay_image_carousel .uc_image_carousel_content{
+  padding:30px;
+  background-color:#f4f4f4;
+}
+
+.uc_overlay_image_carousel .uc_more_btn{
+  font-size: 15px;
+  color: #334054;
+  text-decoration:none;
+  width: 120px;
+  text-align: right;
+  position: relative;
+  padding-right: 8px;
+  font-weight: 700;
+}
+
+.uc_overlay_image_carousel .uc_more_btn:before {
+    content: "";
+    position: absolute;
+    right: -10px;
+    top: 3px;
+    background: url(arrow.png) no-repeat 0 0;
+    width: 10px;
+    height: 11px;
+}
+
+.uc_overlay_image_carousel .owl-nav .owl-prev:before{
+    content: "←";
+    border:1px solid lightgray;
+    padding:10px;
+    background-color:white;
+    float:left;
+    position:absolute;
+    left:0px;
+    top:50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
+.uc_overlay_image_carousel .owl-nav .owl-next:after{
+    content: "→";
+    border:1px solid lightgray;
+    padding:10px;
+    background-color:white;
+    float:right;
+    position:absolute;
+    right:0px;
+    top:50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
+
+
+.uc_overlay_image_carousel .uc_post_title{
+  font-size:21px;
+  padding-right:10px;
+  font-size: 18px;
+  color: #00264a;
+  font-weight: 700;
+}
+
+
+
+.uc_overlay_image_carousel .owl-dots{
+  text-align:center;
+  padding-top:14px;
+  position: absolute;
+  left: 50%;
+  bottom: -64px;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+}
+.uc_overlay_image_carousel .owl-dot {
+  background: #c7c9cc;
+  border-radius: 50%;
+  box-sizing: border-box;
+  width: 18px;
+  height:18px;
+  margin:10px 6px!important;
+  display:inline-block;
+  position: relative;
+}
+.uc_overlay_image_carousel .owl-dot.active::after {
+  content:"";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+   width: 8px;
+  height:8px;
+  background: #2a3646;
+  border-radius: 50%;
+}

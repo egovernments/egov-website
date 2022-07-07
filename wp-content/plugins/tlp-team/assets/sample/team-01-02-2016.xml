@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<members>
+    <member>
+        <name>Gloria S. Harrell</name>
+        <content>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda consequatur deleniti doloribus ea, est illo ipsum natus quae, saepe sequi totam ullam ut voluptatibus! Consequuntur dignissimos iusto maiores.</content>
+        <feature_image>http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg</feature_image>
+        <short_bio>Lorem ipsum dolor sit amet.</short_bio>
+        <experience_year>10</experience_year>
+        <email>support@radiustheme.com</email>
+        <telephone>857-488-7535</telephone>
+        <mobile>857-488-7535</mobile>
+        <web_url>http://radioustheme.com</web_url>
+        <location>AL, USA</location>
+        <skill>
+            <id>Joomla</id>
+            <percent>86</percent>
+        </skill>
+        <skill>
+            <id>Wordpress</id>
+            <percent>89</percent>
+        </skill>
+        <skill>
+            <id>HTML</id>
+            <percent>90</percent>
+        </skill>
+        <social>
+            <id>twitter</id>
+            <url>http://twitter.com</url>
+        </social>
+        <social>
+            <id>facebook</id>
+            <url>http://facebook.com</url>
+        </social>
+        <social>
+            <id>google-plus</id>
+            <url>http://google-plus.com</url>
+        </social>
+        <department>Development</department>
+        <department>SEO</department>
+        <designation>Designer</designation>
+        <designation>CEO</designation>
+    </member>
+    <member>
+        <name>Sara P. Anderson</name>
+        <content>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consectetur cum deleniti eius, eos facilis in laboriosam mollitia odit quaerat ratione repellat repellendus repudiandae saepe similique sit temporibus ullam voluptatibus.</content>
+        <feature_image>http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg</feature_image>
+        <short_bio>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, perspiciatis.</short_bio>
+        <experience_year>10</experience_year>
+        <email>support@radiustheme.com</email>
+        <telephone>87659754</telephone>
+        <mobile>76549087</mobile>
+        <web_url>http://radioustheme.com</web_url>
+        <location>AK, USA</location>
+        <skill>
+            <id>Joomla</id>
+            <percent>86</percent>
+        </skill>
+        <skill>
+            <id>Wordpress</id>
+            <percent>89</percent>
+        </skill>
+        <skill>
+            <id>HTML</id>
+            <percent>90</percent>
+        </skill>
+        <social>
+            <id>twitter</id>
+            <url>http://twitter.com</url>
+        </social>
+        <social>
+            <id>facebook</id>
+            <url>http://facebook.com</url>
+        </social>
+        <social>
+            <id>google-plus</id>
+            <url>http://google-plus.com</url>
+        </social>
+        <department>Development</department>
+        <department>SEO</department>
+        <designation>Designer</designation>
+        <designation>CEO</designation>
+    </member>
+    <member>
+        <name>Ann J. Riggs</name>
+        <content>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consectetur cum deleniti eius, eos facilis in laboriosam mollitia odit quaerat ratione repellat repellendus repudiandae saepe similique sit temporibus ullam voluptatibus.</content>
+        <feature_image>http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg</feature_image>
+        <short_bio>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, perspiciatis.</short_bio>
+        <experience_year>10</experience_year>
+        <email>support@radiustheme.com</email>
+        <telephone>87659754</telephone>
+        <mobile>76549087</mobile>
+        <web_url>http://radioustheme.com</web_url>
+        <location>AK, USA</location>
+        <skill>
+            <id>Joomla</id>
+            <percent>86</percent>
+        </skill>
+        <skill>
+            <id>Wordpress</id>
+            <percent>89</percent>
+        </skill>
+        <skill>
+            <id>HTML</id>
+            <percent>90</percent>
+        </skill>
+        <social>
+            <id>twitter</id>
+            <url>http://twitter.com</url>
+        </social>
+        <social>
+            <id>facebook</id>
+            <url>http://facebook.com</url>
+        </social>
+        <social>
+            <id>google-plus</id>
+            <url>http://google-plus.com</url>
+        </social>
+        <department>Development</department>
+        <department>SEO</department>
+        <designation>Designer</designation>
+        <designation>CEO</designation>
+    </member>
+    <member>
+        <name>Evan J. Broomfield</name>
+        <content>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consectetur cum deleniti eius, eos facilis in laboriosam mollitia odit quaerat ratione repellat repellendus repudiandae saepe similique sit temporibus ullam voluptatibus.</content>
+        <feature_image>http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg</feature_image>
+        <short_bio>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, perspiciatis.</short_bio>
+        <experience_year>10</experience_year>
+        <email>support@radiustheme.com</email>
+        <telephone>87659754</telephone>
+        <mobile>76549087</mobile>
+        <web_url>http://radioustheme.com</web_url>
+        <location>AK, USA</location>
+        <skill>
+            <id>Joomla</id>
+            <percent>86</percent>
+        </skill>
+        <skill>
+            <id>Wordpress</id>
+            <percent>89</percent>
+        </skill>
+        <skill>
+            <id>HTML</id>
+            <percent>90</percent>
+        </skill>
+        <social>
+            <id>twitter</id>
+            <url>http://twitter.com</url>
+        </social>
+        <social>
+            <id>facebook</id>
+            <url>http://facebook.com</url>
+        </social>
+        <social>
+            <id>google-plus</id>
+            <url>http://google-plus.com</url>
+        </social>
+        <department>Development</department>
+        <department>SEO</department>
+        <designation>Designer</designation>
+        <designation>CEO</designation>
+    </member>
+</members>

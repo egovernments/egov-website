@@ -1,0 +1,177 @@
+/**
+ * jquery-bootstrap-scrolling-tabs
+ * @version v0.0.1
+ * @link https://github.com/mikejacobson/jquery-bootstrap-scrolling-tabs
+ * @author Mike Jacobson <michaeljjacobson1@gmail.com>
+ * @license MIT License, http://www.opensource.org/licenses/MIT
+ */
+/* line 13, jquery.scrolling-tabs.scss */
+
+
+.scrtabs-tab-container a {outline: 0;}
+.scrtabs-tab-container * {
+  box-sizing: border-box;
+}
+
+/* line 17, jquery.scrolling-tabs.scss */
+.scrtabs-tab-container {
+  height: 42px;
+}
+/* line 19, jquery.scrolling-tabs.scss */
+.scrtabs-tab-container .tab-content {
+  clear: left;
+}
+
+/* line 24, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-fixed-container {
+  float: left;
+  /*height: 42px;*/
+  overflow: hidden;
+  width: 100%;
+}
+
+/* line 31, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-movable-container {
+  position: relative;
+}
+/* line 33, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-movable-container .tab-content {
+  display: none;
+}
+
+/* line 38, jquery.scrolling-tabs.scss */
+.scrtabs-tab-scroll-arrow {
+
+}
+/* line 50, jquery.scrolling-tabs.scss */
+.scrtabs-tab-scroll-arrow:hover {
+  background-color: #eeeeee;
+}
+
+/* line 55, jquery.scrolling-tabs.scss
+.scrtabs-tabs-fixed-container ul.nav-tabs {
+  height: 40px;
+}
+ */
+/* line 57, jquery.scrolling-tabs.scss */
+.scrtabs-tabs-fixed-container ul.nav-tabs > li {
+  white-space: nowrap;
+}
+
+/* line 63, jquery.scrolling-tabs.scss */
+.scrtabs-tab-content-outside-movable-container .nav-tabs {
+  display: none;
+}
+
+.scrtabs-tab-container .scrtabs-tab-scroll-arrow span{
+
+	 border: solid black;
+	border-width: 0 5px 5px 0;
+	display: inline-block;
+	padding: 4px;
+
+
+}
+.scrtabs-js-tab-scroll-arrow-left{
+
+box-sizing: border-box;
+padding-left: 5px;
+border:0px;
+left: 0px;
+position: relative;
+border: 1px solid #ccc;
+background-color: #ccc;
+height: 40px;
+width: 20.8px;
+top:0px;
+z-index:1;
+
+}
+.scrtabs-js-tab-scroll-arrow-left span{
+
+   transform: rotate(135deg);
+   -webkit-transform: rotate(135deg);
+
+}
+.scrtabs-js-tab-scroll-arrow-right{
+
+
+box-sizing: border-box;
+padding-left: 2px;
+border:0px;
+left: 0px;
+position: relative;
+border: 1px solid #ccc;
+background-color: #ccc;
+height: 40px;
+width: 20.8px;
+top:0px;
+z-index:1;
+}
+
+.scrtabs-js-tab-scroll-arrow-right span{
+
+ transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+
+/*
+@-moz-document url-prefix() {
+  .scrtabs-js-tab-scroll-arrow-right {
+    margin-top:0px;
+  }
+  .scrtabs-js-tab-scroll-arrow-left{
+
+    margin-top:0px;
+  }
+}
+*/
+.btabs  .bordered-tab-contents > .tab-content > .tab-pane {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px 0px 0px 0px;
+    padding: 10px;
+    margin-top:-1px;
+    margin-right:0px;
+}
+
+.btabs  .bordered-tab-contents > .nav-tabs {
+    margin-bottom: 0;
+}
+
+.btabs .tab-content{display:unset}
+.btabs  .bordered-tab-contents {
+
+  position:relative;
+  top:-1px;
+}
+
+.btab  li > a{border-radius:0px}
+
+.btab .nav-tabs > li.active > a, .btab .nav-tabs > li.active > a:hover, .btab .nav-tabs > li.active > a:focus{
+margin-top: 2px;
+border-bottom: 0px;
+}
+
+.btabs .nav-tabs > li > a{border-radius:0px}
+.btab .nav-tabs > li.active > a, .btab .nav-tabs > li.active > a:hover, .btab .nav-tabs > li.active > a:focus{
+margin-top: 2px;
+border-bottom: 0px;
+}
+
+.btabs{padding:5px;}
+
+.btabs .tab-content{overflow:inherit}
+.btabs .nav-tabs > li.active > a, .btabs .nav-tabs > li.active > a:hover, .btabs .nav-tabs > li.active > a:focus{outline:none;box-shadow:none}
+.btabs .nav-tabs > li.active{outline:none;box-shadow:none}
+.btabs .nav-tabs > li > a{margin-right:0px}
+/*
+.btabs .nav-tabs > li:first-child.active a{border-left:0px}
+.btabs .nav-tabs > li:first-child.active a:hover{border-left:0px}
+.btabs .nav-tabs > li:first-child.active a:focus{border-left:0px}
+
+*/
+
+.btabs .nav-tabs > li:first-child.active{top:1px}

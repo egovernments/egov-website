@@ -1,0 +1,416 @@
+# Copyright (C) 2020 WP Responsive Tabs horizontal vertical and accordion Tabs Pro
+# This file is distributed under the same license as the WP Responsive Tabs horizontal vertical and accordion Tabs Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Responsive Tabs horizontal vertical and accordion "
+"Tabs Pro 2.19\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/responsive-"
+"horizontal-vertical-and-accordion-tabs-pro\n"
+"POT-Creation-Date: 2020-12-13 16:08:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-best-responsive-tabs.php:457
+msgid "Responsive Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:458
+msgid "Tab Sets"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:459 wp-best-responsive-tabs.php:680
+#: wp-best-responsive-tabs.php:745
+msgid "Manage Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:460
+msgid "Preview Slider"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:460
+msgid "Preview Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:548 wp-best-responsive-tabs.php:1720
+msgid "Access Denied"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:581
+msgid "Manage Tab Sets"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:581 wp-best-responsive-tabs.php:1750
+msgid "Add New"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:588 wp-best-responsive-tabs.php:773
+#: wp-best-responsive-tabs.php:1759 wp-best-responsive-tabs.php:1987
+msgid "Bulk Actions"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:589 wp-best-responsive-tabs.php:774
+#: wp-best-responsive-tabs.php:1760
+msgid "delete"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:591 wp-best-responsive-tabs.php:777
+#: wp-best-responsive-tabs.php:1762 wp-best-responsive-tabs.php:1992
+msgid "Apply"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:613 wp-best-responsive-tabs.php:615
+#: wp-best-responsive-tabs.php:1833 wp-best-responsive-tabs.php:1835
+msgid "Search"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:616 wp-best-responsive-tabs.php:1836
+msgid "Reset Search"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:648 wp-best-responsive-tabs.php:651
+#: wp-best-responsive-tabs.php:653 wp-best-responsive-tabs.php:741
+#: wp-best-responsive-tabs.php:1865 wp-best-responsive-tabs.php:1868
+#: wp-best-responsive-tabs.php:1870 wp-best-responsive-tabs.php:1949
+msgid "Id"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:659 wp-best-responsive-tabs.php:662
+#: wp-best-responsive-tabs.php:664 wp-best-responsive-tabs.php:742
+#: wp-best-responsive-tabs.php:1104
+msgid "Name"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:670 wp-best-responsive-tabs.php:673
+#: wp-best-responsive-tabs.php:675 wp-best-responsive-tabs.php:743
+msgid "Created On"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:679
+msgid "Shortcode"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:681 wp-best-responsive-tabs.php:746
+#: wp-best-responsive-tabs.php:1908 wp-best-responsive-tabs.php:1960
+msgid "Edit"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:682 wp-best-responsive-tabs.php:747
+#: wp-best-responsive-tabs.php:1909 wp-best-responsive-tabs.php:1961
+#: wp-best-responsive-tabs.php:1988
+msgid "Delete"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:740
+msgid "Select Record"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:744
+msgid "ShortCode"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:753 wp-best-responsive-tabs.php:1969
+msgid "No Records"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:753
+msgid "No Tab Sets Found"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:791
+msgid ""
+"Are you sure you want to delete selected tabs Sets ? All tabs related to "
+"this tab Sets also removed."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:800
+msgid ""
+"Are you sure you want to delete this tab sets ? All tabs related to this "
+"sets also removed."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:870 wp-best-responsive-tabs.php:920
+#: wp-best-responsive-tabs.php:980 wp-best-responsive-tabs.php:1037
+#: wp-best-responsive-tabs.php:1389 wp-best-responsive-tabs.php:1449
+#: wp-best-responsive-tabs.php:2130 wp-best-responsive-tabs.php:2190
+#: wp-best-responsive-tabs.php:2263 wp-best-responsive-tabs.php:2301
+#: wp-best-responsive-tabs.php:2598 wp-best-responsive-tabs.php:2653
+msgid "Access Denied. Please contact your administrator."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:909
+msgid "Tab set updated successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:953
+msgid "Tab set added successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1089
+msgid "Update Tab Set"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1093
+msgid "Add Tab Set"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1117
+msgid "Type"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1123 wp-best-responsive-tabs.php:2798
+msgid "Select"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1124
+msgid "Responsive Horizontal Scrollable Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1125
+msgid "Responsive Horizontal Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1126
+msgid "Responsive Vertical Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1127
+msgid "Responsive Accordion Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1141
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1155
+msgid "Inactive Tab Background Color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1170
+msgid "Border Color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1185
+msgid "Tab font color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1199
+msgid "Active Tab font color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1213
+msgid "Tab Content color"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1227 wp-best-responsive-tabs.php:1232
+msgid "Scroll to tab edge ?"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1235
+msgid ""
+"Set if you want to force full-width tabs to display at the left scroll arrow."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1242
+msgid "Use Ajax ?"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1247
+msgid "Set true if you want tab content load first time from ajax"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1257
+msgid "Additional CSS"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1264
+msgid "Don't, use style tag. Just add css"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1275 wp-best-responsive-tabs.php:2441
+msgid "Save Changes"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1277 wp-best-responsive-tabs.php:2443
+msgid "Cancel"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1423
+msgid "Tab set deleted successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1430
+msgid "Error while deleting tab set."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1494
+msgid "Selected tab sets deleted successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1501
+msgid "Error while deleting tab sets."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1686
+msgid ""
+"Please select tab set. Click on \"Manage Tabs\" of your desired tab set."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1750
+msgid "Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1761 wp-best-responsive-tabs.php:1989
+msgid "Update Order"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1876 wp-best-responsive-tabs.php:1879
+#: wp-best-responsive-tabs.php:1881 wp-best-responsive-tabs.php:1950
+msgid "Title"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1886 wp-best-responsive-tabs.php:1889
+#: wp-best-responsive-tabs.php:1891 wp-best-responsive-tabs.php:1956
+msgid "Display Order"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1898 wp-best-responsive-tabs.php:1901
+#: wp-best-responsive-tabs.php:1903 wp-best-responsive-tabs.php:1959
+msgid "Published On"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:1969
+msgid "No Tabs"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2007
+msgid "Are you sure you want to delete selected tabs?"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2016
+msgid "Are you sure you want to delete this tab?"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2032 wp-best-responsive-tabs.php:2814
+msgid "To print this tab sets into WordPress Post/Page use below code"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2038 wp-best-responsive-tabs.php:2817
+msgid ""
+"To print this tab sets into WordPress theme/template PHP files use below code"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2170
+msgid "Tab updated successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2177
+msgid "Error while updating tab"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2219
+msgid "New tab added successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2227
+msgid "Error while adding tab"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2292
+msgid "Update Tab"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2318
+msgid "Add Tab"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2330
+msgid "Tab Title"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2344
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2360
+msgid "Tab Order"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2378
+msgid "Tab Content"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2392 wp-best-responsive-tabs.php:2397
+msgid "Is Default Selected Tab?"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2407
+msgid "Is External Link"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2412
+msgid "Redirect on click to tab"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2422
+msgid "Redirection Link"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2504
+msgid "Default tab can not be a link"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2620
+msgid "Tab deleted successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2627
+msgid "Error while deleting tab."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2668
+msgid "Access Denied. Please contact your administrator"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2708
+msgid "Tabs order updated successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2735
+msgid "selected tabs deleted successfully."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2744
+msgid "Error while deleting tabs."
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2794
+msgid "Tabs Preview"
+msgstr ""
+
+#: wp-best-responsive-tabs.php:2796
+msgid "Select Tab Set"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Responsive Tabs horizontal vertical and accordion Tabs Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.i13websolution.com/product/best-wordpress-responsive-tabs-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is beautiful responsive all in one tabs for wordpress sites/blogs. Add "
+"any number of tabs sets to your site. your tabs sets will be ready within "
+"few min."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "I Thirteen Web Solution"
+msgstr ""

@@ -1,0 +1,362 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TFClipping Mask Addon For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-09 04:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: addon-elementor.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: addon-elementor.php:94 addon-elementor.php:108
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:301
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:452
+msgid "Background color"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:369
+msgid "Border"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:377
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:58 widgets/widget-clipping-mask.php:224
+msgid "Bottom Center"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:59 widgets/widget-clipping-mask.php:225
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:60 widgets/widget-clipping-mask.php:226
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:360
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:309
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:52 widgets/widget-clipping-mask.php:218
+msgid "Center Center"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:53 widgets/widget-clipping-mask.php:219
+msgid "Center Left"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:54 widgets/widget-clipping-mask.php:220
+msgid "Center Right"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:32
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:196
+msgid "Choose Mask"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:162
+msgid "Clipping Mask"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:511 widgets/widget-clipping-mask.php:578
+msgid "Color"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:523
+msgid "Color Hover"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:113 widgets/widget-clipping-mask.php:261
+msgid "Contain"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:112 widgets/widget-clipping-mask.php:260
+msgid "Cover"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:185
+msgid "Custom"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:184
+msgid "Custom Year"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:51 widgets/widget-clipping-mask.php:75
+#: widgets/widget-clipping-mask.php:92 widgets/widget-clipping-mask.php:111
+#: widgets/widget-clipping-mask.php:217 widgets/widget-clipping-mask.php:259
+msgid "Default"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:126
+msgid "Default title"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:134 widgets/widget-clipping-mask.php:559
+msgid "Description"
+msgstr ""
+
+#: addon-elementor.php:85 addon-elementor.php:96
+msgid "Elementor"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:77
+msgid "Fixed"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:293
+msgid "General"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:488
+msgid "H1"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:489
+msgid "H2"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:490
+msgid "H3"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:491
+msgid "H4"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:492
+msgid "H5"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:493
+msgid "H6"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:419
+msgid "Height"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/themesflat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:145
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:25 widgets/widget-clipping-mask.php:395
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:71
+msgid "Image Attachment"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:47
+msgid "Image Position"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:88
+msgid "Image Repeat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:107
+msgid "Image Size"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:305
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:143
+msgid "Link"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:327 widgets/widget-clipping-mask.php:547
+#: widgets/widget-clipping-mask.php:599
+msgid "Margin"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:169
+msgid "Mask"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:213
+msgid "Mask Position"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:237
+msgid "Mask Repeat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:255
+msgid "Mask Size"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:173
+msgid "Mask Style1"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:174
+msgid "Mask Style2"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:175
+msgid "Mask Style3"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:93 widgets/widget-clipping-mask.php:241
+msgid "No-repeat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:176
+msgid "Oval Style1"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:177
+msgid "Oval Style2"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:178
+msgid "Oval Style3"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:179
+msgid "Oval Style4"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:180
+msgid "Oval Style5"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:181
+msgid "Oval Style6"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:182
+msgid "Oval Style7"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:183
+msgid "Oval Style8"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:443
+msgid "Overlay"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:339
+msgid "Padding"
+msgstr ""
+
+#: addon-elementor.php:110
+msgid "PHP"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:94 widgets/widget-clipping-mask.php:242
+msgid "Repeat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:95 widgets/widget-clipping-mask.php:243
+msgid "Repeat-x"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:96 widgets/widget-clipping-mask.php:244
+msgid "Repeat-y"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:313
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:272
+msgid "Rotate"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:76
+msgid "Scroll"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:197
+msgid "SVG Image Or PNG Image"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:539 widgets/widget-clipping-mask.php:591
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:9
+msgid "TF Clipping Mask"
+msgstr ""
+
+#. Name of the plugin
+#: addon-elementor.php:84 addon-elementor.php:95 addon-elementor.php:109
+msgid "TFClipping Mask Addon For Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:124 widgets/widget-clipping-mask.php:476
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:468
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:484
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:55 widgets/widget-clipping-mask.php:221
+msgid "Top Center"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:56 widgets/widget-clipping-mask.php:222
+msgid "Top Left"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:57 widgets/widget-clipping-mask.php:223
+msgid "Top Right"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:502 widgets/widget-clipping-mask.php:569
+msgid "Typography"
+msgstr ""
+
+#: widgets/widget-clipping-mask.php:403
+msgid "Width"
+msgstr ""

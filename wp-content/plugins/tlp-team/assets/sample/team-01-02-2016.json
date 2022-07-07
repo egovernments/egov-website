@@ -1,0 +1,101 @@
+{
+  "members":
+  [
+    {
+      "name": "Ann J. Riggs",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda consequatur deleniti doloribus ea, est illo ipsum natus quae, saepe sequi totam ullam ut voluptatibus! Consequuntur dignissimos iusto maiores.",
+      "feature_image": "http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg",
+      "short_bio": "Lorem ipsum dolor sit amet.",
+      "experience_year": 10,
+      "email": "support@radiustheme.com",
+      "telephone": "857-488-7535",
+      "mobile": "857-488-7535",
+      "web_url": "http://radioustheme.com",
+      "location": "West Roxbury, MA 02132",
+      "skill": [
+        {"id": "Joomla", "percent": 85},
+        {"id": "Wordpress", "percent": 52},
+        {"id": "HTML", "percent": 52}
+      ],
+      "social":[
+        {"id": "twitter", "url": "http://twitter.com"},
+        {"id": "linkedin", "url": "http://linkedin.com"},
+        {"id": "google-plus", "url": "http://googleplus.com"}
+      ],
+      "department":["Development","SEO"],
+      "designation":["Designer","CEO"]
+    },
+    {
+      "name": "Michael M. Johnson",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda consequatur deleniti doloribus ea, est illo ipsum natus quae, saepe sequi totam ullam ut voluptatibus! Consequuntur dignissimos iusto maiores.",
+      "feature_image": "http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg",
+      "short_bio": "Lorem ipsum dolor sit amet.",
+      "experience_year": 10,
+      "email": "support@radiustheme.com",
+      "telephone": "857-488-7535",
+      "mobile": "857-488-7535",
+      "web_url": "http://radioustheme.com",
+      "location": "Arlington Heights, IL 60005",
+      "skill": [
+        {"id": "Joomla", "percent": 85},
+        {"id": "Wordpress", "percent": 52},
+        {"id": "HTML", "percent": 52}
+      ],
+      "social":[
+        {"id": "twitter", "url": "http://twitter.com"},
+        {"id": "linkedin", "url": "http://linkedin.com"},
+        {"id": "google-plus", "url": "http://googleplus.com"}
+      ],
+      "department":["Development","SEO"],
+      "designation":["Designer","CEO"]
+    },
+    {
+      "name": "Kevin C. Warren",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda consequatur deleniti doloribus ea, est illo ipsum natus quae, saepe sequi totam ullam ut voluptatibus! Consequuntur dignissimos iusto maiores.",
+      "feature_image": "http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg",
+      "short_bio": "Lorem ipsum dolor sit amet.",
+      "experience_year": 10,
+      "email": "support@radiustheme.com",
+      "telephone": "857-488-7535",
+      "mobile": "857-488-7535",
+      "web_url": "http://radioustheme.com",
+      "location": "Fort Myers, FL 33912",
+      "skill": [
+        {"id": "Joomla", "percent": 85},
+        {"id": "Wordpress", "percent": 52},
+        {"id": "HTML", "percent": 52}
+      ],
+      "social":[
+        {"id": "twitter", "url": "http://twitter.com"},
+        {"id": "linkedin", "url": "http://linkedin.com"},
+        {"id": "google-plus", "url": "http://googleplus.com"}
+      ],
+      "department":["Development","SEO"],
+      "designation":["Designer","CEO"]
+    },
+    {
+      "name": "Elizabeth J. Nielson",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda consequatur deleniti doloribus ea, est illo ipsum natus quae, saepe sequi totam ullam ut voluptatibus! Consequuntur dignissimos iusto maiores.",
+      "feature_image": "http://demo.radiustheme.com/wordpress/tlpteampro/wp-content/uploads/2015/12/team2.jpg",
+      "short_bio": "Lorem ipsum dolor sit amet.",
+      "experience_year": 10,
+      "email": "support@radiustheme.com",
+      "telephone": "857-488-7535",
+      "mobile": "857-488-7535",
+      "web_url": "http://radioustheme.com",
+      "location": "Phoenix, AZ 85003",
+      "skill": [
+        {"id": "Joomla", "percent": 85},
+        {"id": "Wordpress", "percent": 52},
+        {"id": "HTML", "percent": 52}
+      ],
+      "social":[
+        {"id": "twitter", "url": "http://twitter.com"},
+        {"id": "linkedin", "url": "http://linkedin.com"},
+        {"id": "google-plus", "url": "http://googleplus.com"}
+      ],
+      "department":["Development","SEO"],
+      "designation":["Designer","CEO"]
+    }
+  ]
+}
