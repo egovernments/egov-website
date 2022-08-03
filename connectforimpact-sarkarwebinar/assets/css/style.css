@@ -1,0 +1,298 @@
+:root {
+  --blue: #0577bd;
+  --yellow: #f6871b;
+  --gray: #474441;
+  --font-primary: 'Roboto', sans-serif;
+  --font-secondary: 'Open Sans', sans-serif;
+}
+
+
+
+/*--------------------------------------------------------------
+# Fonts
+--------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+
+/*--------------------------------------------------------------
+# Global styling
+--------------------------------------------------------------*/
+
+
+
+body {
+	font-size: 16px;
+	line-height: 26px;
+	color: #707070;
+	font-weight: inherit;
+	font-family: 'Open Sans', sans-serif;
+	overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size: 45px;
+	line-height: 60px;
+}
+h2 {
+	font-size: 25px;
+	line-height: 45px;
+}
+h4 {
+	font-size: 20px;
+}
+h5 {
+	font-size: 18px;
+}
+.font-23 {
+  font-size: 23px;
+}
+.font-30 {
+	font-size: 30px;
+}
+.font-35 {
+  font-size: 35px;
+}
+.font-18{
+	font-size: 18px;
+}
+
+
+.color-yellow {
+	background-color: var(--yellow);
+}
+.color-blue {
+	background-color: var(--blue);
+}
+.sec-heading {
+	color: var(--gray);
+    font-weight: 700;
+    font-size: 35px;
+}
+.p-0 {
+	padding: 0px !important;
+}
+
+.sec-padding-60 {
+ padding-top: 60px;
+ padding-bottom: 60px;	
+}
+
+.theme-btn {
+    padding: 7px 28px;
+    border-radius: 51px;
+    color: #fff;
+    font-weight: 500;
+}
+.theme-btn:hover {
+    background-color: #474441;
+    color: #fff;
+}
+.text-yellow {
+	color: var(--yellow);
+}
+.text-blue {
+	color: var(--blue);
+}
+.text-black {
+	color: #302f2f;
+}
+.text-dark {
+  color: #434344;
+}
+.fw-300 {
+	font-weight: 300;
+}
+.fw-500 {
+	font-weight: 500;
+}
+.fw-600 {
+	font-weight: 600;
+}
+.fw-700 {
+	font-weight: 700;
+}
+.fw-800 {
+	font-weight: 800;
+}
+.br {
+	border-right: 2px solid var(--yellow);
+}
+.sep {
+	height: 5px;
+  width: 17%;
+  background-color: var(--yellow);
+  margin: 10px auto;
+}
+.position-absolute {
+	position: absolute;
+}
+.timing {
+	font-family: var(--font-primary);
+	    font-weight: 500;
+}
+
+.filter-shadow {
+	    filter: drop-shadow(2px 4px 6px #5f6061);
+}
+.heading-sep {
+    margin: 0px auto 20px;
+    height: 1px;
+    background-color: #000;
+    width: 10%;
+}
+.align-center{
+  align-items: center;
+}
+
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+.header {
+	background-image: url('../img/Registration-Banner-1-min.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;	
+}
+.header logo {
+    max-width: 150px;
+    height: auto;
+}
+
+/*--------------------------------------------------------------
+# otherr section
+--------------------------------------------------------------*/
+
+.timeline i {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.speakers .wrapper img {
+       margin-bottom: 30px;
+}
+.agenda .left-col {
+	background-color: #f8f7f6;
+}
+.agenda .right-col {
+	background-color: #efeeee;
+}
+.agenda .left-col .agenda-title {
+   background: url('../img/Webinar-1_Banner.png');
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-left: 14px solid var(--blue);
+}
+.agenda .right-col .agenda-title {
+   background: url(../img/Webinar-2_Banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-left: 14px solid var(--yellow);
+}
+.agenda .agenda-title {
+    padding: 40px 10%;
+    min-height:287px;
+}
+@media screen and (max-width: 1230px){
+.agenda .agenda-title  {
+     min-height:330px;
+  }
+}
+@media screen and (max-width: 991px){
+.agenda .agenda-title  {
+     min-height:auto;
+  }
+}
+.agenda .agenda-intro  {
+	    padding: 0 9% 90px;
+}
+.agenda .agenda-intro .date img ,
+.agenda .agenda-intro .time img  {
+   vertical-align: bottom;
+    max-width: 35px;
+    height: auto;
+    margin-right: 10px;
+}
+.agenda .agenda-intro h4.date,
+.agenda .agenda-intro h4.time  {
+    color: #21201f;
+    font-weight: 500;
+}
+.agenda .agenda-intro .text-wrapper img {
+    max-width: 25px;
+    height: auto;
+    vertical-align: sub;
+    margin-right: 7px;
+}
+
+.agenda .agenda-intro .mb-5 {
+	margin-bottom: 5px !important;
+}
+.footer {
+	background-color: #1b1a19;
+}
+.footer p {
+	font-family: var(--font-primary);
+	font-size: 14px;
+	color: #f9f7f7;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+@media screen and (max-width: 768px) {
+	.logo.position-absolute {
+		position: relative !important;
+	}
+	.br {
+	    border-right: none;
+	}
+	.speakers .sec-heading {
+	    text-align: center;
+	} 
+}
+
+
+/* Sarkar Header */
+
+.header.sarkar .sep {
+    height: 2px;
+    width: 25%; 
+ }  
+.header.sarkar {
+  background-image: url('../img/Sarkar_Register_Banner.png');
+}
+.header.sarkar img {
+    max-width: 150px;
+    height: auto;
+}
+.sarkar.speakers img {
+     float: left;
+    margin-right: 30px;
+}
+.sarkar.speakers .speaker-details {
+      padding: 60px 0;
+}
+@media screen and (max-width: 580px) {
+  .sarkar.speakers img {
+    float: none;
+  }
+  .sarkar.speakers .speaker-details {
+    padding: 30px 0;
+  }
+  .timeline .theme-btn {
+    margin-bottom: 20px;
+  }
+}
